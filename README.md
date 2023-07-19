@@ -1,4 +1,4 @@
-# Comandos_Bitcaora
+# Comandos_Bitacora
 
 | Comando | Descripción |
 |---------|-------------|
